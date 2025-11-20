@@ -1,0 +1,3 @@
+packages:
+  - wokwi-embed-example
+  - ../wokwi-cli/packages/wokwi-client-js/
